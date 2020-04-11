@@ -10,8 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".CheckboxesActivity"
+            android:label="@string/action_checkboxes"/>
+        <activity
             android:name=".ButtonsActivity"
-            android:label="@string/action_buttons"  />
+            android:label="@string/action_buttons" />
         <activity
             android:name=".MemoActivity"
             android:label="@string/action_memo" />
