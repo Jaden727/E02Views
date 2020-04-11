@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">E02Views</string>
+    <string name="action_Signup">회원가입</string>
+    <string name="action_Memo">메모장</string>
+    <string name="loginid">로그인 아이디</string>
+    <string name="input_loginid">로그인 아이디를 입력하세요.</string>
+    <string name="input_password">비밀번호를 입력하세요.</string>
+    <string name="check_passwo" />
+    <string name="Check_password">비밀번호 확인</string>
+    <string name="password_2">비밀번호를 한번 더 확인하세요.</string>
+    <string name="email">이메일</string>
+    <string name="Email">이메일 주소를 입력하세요</string>
+    <string name="signup">회원가입</string>
+    <string name="password">비밀번호</string>
+    <string name="input_title">제목을 입력하세요</string>
+    <string name="input_content" >내용을 입력하세요.</string>
+    <string name="button_save">저장</string>
+    <string name="action_memo">메모장</string>
+    <string name="action_buttons">버튼</string>
+    <string name="refresh">새로고침</string>
+    <string name="title">공지사항 입니다.</string>
+    <string name="content">4주차에 단답식 퀴즈 봅니다.</string>
+</resources>
